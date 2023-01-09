@@ -38,9 +38,9 @@ navigation:
   - {file: "about.md", icon: address-card}
 
 external:                   # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:gavinjerman@github.com"}
-  - {title: Github, icon: github, url: "https://github.com/jermware/jermware.github.io"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/gavinjerman"}
+#  - {title: Mail, icon: envelope, url: "mailto:augeh@cegetel.net"}
+  - {title: Github, icon: github, url: "https://github.com/riton64/riton64.github.io"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/ritov4u"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
