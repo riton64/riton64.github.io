@@ -36,6 +36,7 @@ navigation:
   - {file: "search.md", icon: search}
   #- {file: "archive.html", icon: archive}
   - {file: "about.md", icon: address-card}
+   - {file: "page_one.md", icon: address-card}
 
 external:                   # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:augeh@cegetel.net"}
