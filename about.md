@@ -3,11 +3,11 @@ title: About
 layout: page
 ---
 
-I'm Gavin Jerman, a retired C++ and .NET software developer living in the Cotswolds, England.
+I'm Riton, a retired  software developer living in PAU, France.
 
 I spend my spare time running, enjoying real ale, and writing code.
 
-I created this website primarily to allow me to release apps on Apple's App Store and Mac App Store.
+I created this website primarily to allow me to release apps with Linux.
 
 Occasionally I may write about running, real ale, and software development.
 
