@@ -13,6 +13,7 @@ date_format: "%B %d, %Y"
 paginate: 10
 paginate_path: /page/:num/
 analytics: false            # include analytics
+<i class="fa fa-youtube">
 
 # Kramdown
 kramdown:
