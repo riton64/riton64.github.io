@@ -5,23 +5,6 @@ layout: default
 noindex: true
 ---
 
-<style>
-	#search-container {
-	    max-width: 100%;
-	}
-
-	input[type=text] {
-	    outline: none;
-	    padding: 1rem;
-		background: rgb(236, 237, 238);
-		width: calc(100% - 2em);
-		-webkit-appearance: none;
-		font-family: inherit;
-		font-size: 100%;
-		border: none;
-	}
-</style>
-
 
 <article>
 
