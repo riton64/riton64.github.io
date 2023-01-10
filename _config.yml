@@ -43,7 +43,7 @@ external:                   # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:augeh@cegetel.net"}
   - {title: Github, icon: github, url: "https://github.com/riton64/riton64.github.io"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ritov4u"}
-  - {title: Subscribe, icon: rss, url: "youtube.com"}
+  - {title: Subscribe, icon: youtube, url: "https://www.youtube.com"}
 
 comments:
   #disqus_shortname: ""      # see https://disqus.com/
