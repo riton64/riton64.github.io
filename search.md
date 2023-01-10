@@ -17,9 +17,9 @@ noindex: true
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/search.js" type="text/javascript"></script>
+<!--<script src="/search.js" type="text/javascript"></script> -->
 <!-- or without installing anything -->
-<!-- <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script> -->
+<script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
 
 <!-- Configuration -->
 <script type="text/javascript">
