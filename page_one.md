@@ -9,4 +9,4 @@ layout: page
  <bg>
   <img src="/images/costume0.jpg">
   <figcaption>Ma chatte virtuelle bien aimée</figcaption>
-  {title: Bigorre, icon: rss, url: "https://riton64.github.io/bigorre/"}
+  <a href="https://riton64.github.io/bigorre/" title="Balade en Bigorre"> </a>
