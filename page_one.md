@@ -8,8 +8,11 @@ layout: page
  <figcaption>Biarritz ce 1er janvier 2023.</figcaption>
  <bg>
   <img src="/images/costume.jpg">
+    
   Ma chatte virtuelle bien aimée
  <bg>
+    
   # Balade en Bigorre
- https://riton64.github.io/bigorre/
+    
+  https://riton64.github.io/bigorre/
   
