@@ -45,7 +45,7 @@ external:                   # see http://fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/riton64/riton64.github.io"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ritov4u"}
   - {title: Youtube, icon: rss, url: "https://www.youtube.com"}
-
+  - {title: Bigorre, icon: rss, url: "https://riton64.github.io/bigorre/"}
 comments:
   #disqus_shortname: ""      # see https://disqus.com/
   #isso_domain: ""           # see https://posativ.org/isso/
