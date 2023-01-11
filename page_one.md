@@ -10,7 +10,7 @@ layout: page
   <img src="/images/costume0.jpg">
   <figcaption>Ma chatte virtuelle bien aimée</figcaption>
   
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
