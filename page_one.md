@@ -9,4 +9,6 @@ layout: page
  <bg>
   <img src="/images/costume0.jpg">
   <figcaption>Ma chatte virtuelle bien aimée</figcaption>
-  <"https://riton64.github.io/bigorre/"> "Balade en Bigorre"
+ # Balade en Bigorre
+ /riton64.github.io/bigorre/
+  
