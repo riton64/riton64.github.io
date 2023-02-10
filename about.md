@@ -5,11 +5,11 @@ layout: page
 
 I'm Riton, a retired  software developer living in PAU, France.
 
-I spend my spare time running, enjoying real ale, and writing code.
+I spend my spare time running, enjoying real and virtual life, and writing code.
 
 I created this website primarily to allow me to release apps with Linux.
 
-Occasionally I may write about running, real ale, and software development.
+Occasionally I may write about running, real life, and software development.
 
 This site is hosted using [GitHub Pages](https://pages.github.com) and built using [Jekyll](https://jekyllrb.com).
 
